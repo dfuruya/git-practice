@@ -19,3 +19,6 @@ This is a very simple tutorial that gives new Hack Reactor students who are unfa
 11. Commit and push your changes back to the origin master
 12. Let's say you want to continue doing more work on your again, but you want the new changes that you made from the origin master that your pair and you were working on together. Check out your own branch (git checkout <branch name>) and then pull from the origin master (git pull origin master).
 13. Your terminal should now be telling you that you have a merge conflict. Open app.js and delete the unneccessary lines to fix your conflicts. Then add and commit the changed file to continue the merge.
+
+
+OTHER CHANGED THIS
